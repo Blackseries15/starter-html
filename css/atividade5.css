@@ -1,0 +1,21 @@
+
+
+#descrição{
+    color: red;
+}
+
+.teste{
+    color: chartreuse;
+    background: green;
+    width: 50px;
+    height: 15px;
+
+}
+body,h1,p,div{
+    text-align: center;
+
+}
+
+
+
+
